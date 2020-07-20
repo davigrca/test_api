@@ -1,0 +1,26 @@
+{
+  "name": "prova_sicredi_api",
+  "version": "1.0.0",
+  "description": "Tests scripts for API of sicredi exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/davigrassa/prova_sicredi_api.git"
+  },
+  "author": "Davi Graça",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/davigrassa/prova_sicredi_api/issues"
+  },
+  "homepage": "https://gitlab.com/davigrassa/prova_sicredi_api#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
