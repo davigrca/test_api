@@ -17,7 +17,7 @@
   },
   "homepage": "https://gitlab.com/davigrassa/prova_sicredi_api#readme",
   "devDependencies": {
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "supertest": "^4.0.2"
   },
   "dependencies": {
